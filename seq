@@ -1,0 +1,18 @@
+Thread.currentThread() — methods
+
+Priority of threads
+(у нових ос, пріор це не ..)
+
+Mutex/semaphore
+Wait/notify, monitor, condition variable, thread queues
+- доп перевірки для тредів і захищений доступ
+
+Atomic operations
+
+Concurrent package — for what, main classes — atomics and concurrent collections
+Executor services (реальний приклад) + черга
+Future, callable, completable future
+How to resolve deadlock / race condition
+Async, concurrency, parallelism — diff and understanding
+ThreadLocal
+Concurrency Java Animated - jar

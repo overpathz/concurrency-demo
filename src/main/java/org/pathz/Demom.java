@@ -1,10 +1,7 @@
 package org.pathz;
 
-import javafx.scene.Parent;
-
 import java.util.LinkedList;
 import java.util.List;
-import java.util.concurrent.*;
 
 public class Demom {
 
